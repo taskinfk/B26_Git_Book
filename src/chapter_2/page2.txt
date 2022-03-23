@@ -3,3 +3,7 @@
 It is another Git day
 
 Enjoy it!
+
+text here...
+
+more information
